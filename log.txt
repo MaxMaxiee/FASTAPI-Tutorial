@@ -1,0 +1,5 @@
+MyAPI: Template read for product with id 3
+MyApp: 
+	http://127.0.0.1:8000/dependencies?test=test&separator=%23%23&tag=MyApp
+MyApp: No message
+	http://127.0.0.1:8000/dependencies?test=test&separator=%23%23&tag=MyApp
